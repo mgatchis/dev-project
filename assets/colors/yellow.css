@@ -1,0 +1,35 @@
+a, 
+.welcome h2 span, 
+.info:hover i,
+.more-info:hover,
+.contact h5 i,
+.send-btn:hover,
+.contact p a:hover {
+	color:#ffbe00;
+}
+
+.info,
+.more-info,
+label.error {
+	background:#ffbe00;
+}
+
+.folding-cube .cube:before,
+.social-media ul li i:hover,
+#zoom-in:hover, #zoom-out:hover,
+.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+	background-color:#ffbe00 !important;
+}
+
+#zoom-in, #zoom-out {
+  	background-color:rgba(255, 190, 0, 0.8);
+}
+
+.form-control:focus,
+.form-control.error {
+	border:1px solid #ffbe00;
+}
+
+.page-loader .progress {
+	border-left-color:#ffbe00;
+}
